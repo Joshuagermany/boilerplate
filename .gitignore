@@ -1,1 +1,8 @@
+// ignore 처리 한 이유 : 
+// 너무 많고 어짜피 npm init하면 돼서, 굳이 안올려도 됨
 node_modules
+
+// ignore 처리 한 이유 : 
+// 보안상 mongodb의 키를 git repo에 오픈할 수 없기 때문
+// 안그럼 db 털리니까
+dev.js
